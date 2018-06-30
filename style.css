@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 2em;
+}
+
+#campo{
+width: 100%;
+height: 500px;
+background-color: springgreen;
+}
+#centro{
+    border: 3px solid white;
+    width: 100%;
+    height: 435px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 10%;
+
+}
+
+#arco1{
+    height:200px;
+    float: left;
+    border: 3px solid white;
+
+}
+
+#arco2{
+    height:200px;
+    border: 3px solid white;
+    float: right;
+
+}
+
+#center{
+    height:80px;
+    width: 80px;
+    border-radius: 60%;
+    border: 2px solid white;
+    display:inline-block;
+    margin-left: 39%;    
+    margin-top: 60px;
+    
+}
